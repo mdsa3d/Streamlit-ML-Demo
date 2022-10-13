@@ -1,0 +1,11 @@
+# PasserngerID - 123456
+# Pclass - 1,2,3
+# Name - "John Smith"
+# Sex - 'male', 'female'
+# Age - 0,100
+# SibSp - 0,10 - number of siblings or spouses
+# Parch - 0,2 - number of parents/children aboard
+# Ticket - 12345
+# Fare - 0,100
+# Cabin - C52
+# Embarked - S,C,Q - C = Cherbourg, Q = Queenstown, S = Southampton
